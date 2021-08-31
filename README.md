@@ -1,0 +1,1 @@
+This is Hubu's first git project
